@@ -1,6 +1,4 @@
-# Diabetes-Prediction-Using-Behavioral-Factors
-
-# Group 07 Project - Part 1 Code
+# Diabetes-Prediction-using-Behavioral-Factors
 
 ## Overview
 
